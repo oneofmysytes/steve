@@ -1,0 +1,16 @@
+img {
+	width:270px;
+	height:480px;
+}
+
+table, td {
+	border: 1px #70b8ff;
+}
+
+div img
+{
+	width:450px;
+	height:100px;
+	 margin-left: auto;
+    margin-right: auto;
+}
